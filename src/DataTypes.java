@@ -1,5 +1,5 @@
 
-public class DataTypes {
+public class git DataTypes {
     // TODO TASK 1: fix this code so that it passes the test in DataTypesTest.java
     public static long sum(int[] numbers) {
         long s = 0; // variable to accumulate the sum in!
